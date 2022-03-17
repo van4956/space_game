@@ -1,4 +1,4 @@
-Project - **Space Game**
+**Project - Space Game**
   
 О проекте.  
 Ремейк старой аркадной игры из игровых автоматов - "Space Game".  
